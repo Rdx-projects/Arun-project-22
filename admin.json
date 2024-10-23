@@ -1,5 +1,5 @@
 {
-  "prefix": "!",
+  "prefix": ",",
   "adminUIDs": [
     "Global Administrator UID"
   ],
@@ -8,8 +8,8 @@
     "",
     ""
   ],
-  "botName": "Your botName",
-  "ownerName": "Your Name",
+  "botName": "zain jutt",
+  "ownerName": "rdx zain",
   "facebookLink": "Facebook link",
   "resend": false,
   "notilogs": true,
